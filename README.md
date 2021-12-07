@@ -16,4 +16,4 @@ repo sync
 Then to build:
 
 ```sh
-export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch aosp_gta4lwifi-eng; mka recoveryimage
+export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch twrp_gta4lwifi-eng; mka recoveryimage
