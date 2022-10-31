@@ -1,8 +1,11 @@
 ro.display.series=Samsung Galaxy Tab A7 10.4
 ro.product.board=bengal
 ro.board.platform=bengal
-ro.product.first_api_level=30
-ro.vendor.build.security_patch=2021-09-01
+ro.product.system.brand=samsung
+ro.product.system.device=gta4lwifi
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-T500
+ro.product.system.name=gta4lwifixx
 ro.boot.bootdevice=4744000.sdhci
 ro.boot.dynamic_partitions=true
 ro.treble.enabled=true
